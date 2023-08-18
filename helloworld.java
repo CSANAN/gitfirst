@@ -7,7 +7,7 @@ class helloworld
    {
 
       System.out.println("Hello World");
-      System.out.println("My first editing")
+      System.out.println("My first editing");
 
    }
 
